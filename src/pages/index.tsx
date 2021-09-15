@@ -32,11 +32,11 @@ const IndexPage = () => {
             style={{ border: "0px", borderRadius: '100%', width: 180 }}
           />
         </Box>
-        <Heading  mt={10} textAlign={'left'} fontSize="3xl" color={"black"} mb={6}>
+        <Heading alignSelf={'flex-start'} mt={10} textAlign={'left'} fontSize="3xl" color={"black"} mb={6}>
             Hola, soy William
           </Heading>
           <Text fontSize={'xl'} lineHeight={'8'}>
-            Actualmente trabajo en <ChakraLink color="secondary.500" href="https://lab.lapix.com.co/">Lapix</ChakraLink> como desarrollador FrontEnd, soy Tecnólogo en Informática de la universidad UNIMINUTO y estudiante de últimos semestres de Ingenieria de Software de la universidad Manuela Beltran.  
+            Actualmente trabajo en <ChakraLink  target="_blank" color="secondary.500" href="https://lab.lapix.com.co/">Lapix</ChakraLink> como desarrollador FrontEnd, soy Tecnólogo en Informática de la universidad UNIMINUTO y estudiante de últimos semestres de Ingenieria de Software de la universidad Manuela Beltran.  
           </Text>
           <Text fontSize={'xl'} lineHeight={'8'} mt={4}>
           Este sitio muestra un poco de mi, mis intereses y los proyectos que he realizado a lo largo de este año de experiencia que tengo como desarrollador.

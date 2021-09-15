@@ -64,7 +64,7 @@ const About = () => {
         <Heading textAlign={"left"} fontSize="3xl" color={"black"} mb={6}>
           Contáctame
         </Heading>
-        <Text fontSize={"xl"} lineHeight={"8"}>
+        <Text fontSize={"xl"} lineHeight={"8"} mb={5}>
         Estoy en  <ChakraLink        _hover={{ color: "black" }}
               target="_blank" color="secondary.500" href="https://twitter.com/Will_i_am_dev">Twitter</ChakraLink>  y   <ChakraLink         _hover={{ color: "black" }}
               target="_blank" color="secondary.500" href="https://www.linkedin.com/in/william-melo-8701831b1/">Linkedin</ChakraLink>, si quieres puedes seguirme o enviarme un mensaje directo.

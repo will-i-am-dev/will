@@ -56,17 +56,17 @@ const Proyects = () => {
               fidelidad media.
             </Text>
 
-            <Box display={"flex"} my={2}>
-              <Tag mr={2} size={"md"} variant="solid" colorScheme="linkedin">
+            <Box display={"flex"}  flexWrap={'wrap'} my={2}>
+              <Tag mr={2} my={1}  size={"md"} variant="solid" colorScheme="linkedin">
                 React.js
               </Tag>
-              <Tag mr={2} size={"md"} variant="solid" colorScheme="messenger">
+              <Tag mr={2} my={1}  size={"md"} variant="solid" colorScheme="messenger">
                 TypeScript
               </Tag>
-              <Tag mr={2} size={"md"} variant="solid" colorScheme="purple">
+              <Tag mr={2} my={1}  size={"md"} variant="solid" colorScheme="purple">
                 Gatsby
               </Tag>
-              <Tag mr={2} size={"md"} variant="solid" colorScheme="teal">
+              <Tag mr={2} my={1}  size={"md"} variant="solid" colorScheme="teal">
                 ChakraUI
               </Tag>
             </Box>
@@ -112,17 +112,17 @@ const Proyects = () => {
               google-reCaptcha para la entidad financiera Financenter.
             </Text>
 
-            <Box display={"flex"} my={2}>
-              <Tag mr={2} size={"md"} variant="solid" colorScheme="purple">
+            <Box display={"flex"}  flexWrap={'wrap'} my={2}>
+              <Tag mr={2} my={1}  size={"md"} variant="solid" colorScheme="purple">
                 Preact
               </Tag>
-              <Tag mr={2} size={"md"} variant="solid" colorScheme="messenger">
+              <Tag mr={2} my={1}  size={"md"} variant="solid" colorScheme="messenger">
                 TypeScript
               </Tag>
-              <Tag mr={2} size={"md"} variant="solid" colorScheme="teal">
+              <Tag mr={2} my={1}  size={"md"} variant="solid" colorScheme="teal">
                 CSS
               </Tag>
-              <Tag mr={2} size={"md"} variant="solid" colorScheme="blackAlpha">
+              <Tag mr={2} my={1}  size={"md"} variant="solid" colorScheme="blackAlpha">
                 reCAPTCHA
               </Tag>
             </Box>
@@ -169,23 +169,23 @@ const Proyects = () => {
               administradores, implementando los modulos de: noticias,
               diccionario, documentos, cursos, dashboard, evaluaciones, foro y otros más.
             </Text>
-            <Box display={"flex"} my={2}>
-            <Tag mr={2} size={"md"} variant="solid" colorScheme="linkedin">
+            <Box display={"flex"}  flexWrap={'wrap'} my={2}>
+            <Tag mr={2}  my={1}size={"md"} variant="solid" colorScheme="linkedin">
                 React.js
               </Tag>
-              <Tag mr={2} size={"md"} variant="solid" colorScheme="messenger">
+              <Tag mr={2} my={1} size={"md"} variant="solid" colorScheme="messenger">
                 TypeScript
               </Tag>
-              <Tag mr={2} size={"md"} variant="solid" colorScheme="purple">
+              <Tag mr={2} my={1} size={"md"} variant="solid" colorScheme="purple">
                 Gatsby
               </Tag>
-              <Tag mr={2} size={"md"} variant="solid" colorScheme="pink">
+              <Tag mr={2}my={1}  size={"md"} variant="solid" colorScheme="pink">
               GraphQL
               </Tag>
-              <Tag mr={2} size={"md"} variant="solid" colorScheme="yellow">
+              <Tag mr={2} my={1} size={"md"} variant="solid" colorScheme="yellow">
                Firebase
               </Tag>
-              <Tag mr={2} size={"md"} variant="solid" colorScheme="teal">
+              <Tag mr={2}  my={1} size={"md"} variant="solid" colorScheme="teal">
                 ChakraUI
               </Tag>
             </Box>
