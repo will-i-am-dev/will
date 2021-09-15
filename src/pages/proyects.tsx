@@ -50,9 +50,9 @@ const Proyects = () => {
               Exportapp
             </Heading>
             <Text fontSize={"xl"}>
-              Exportapp es una pagina que permite a las Pymes de Colombia poder
-              conocer las alternativas de exportacion y el potencial de su
-              producto en el exterior, realice el FrontEnd de este prototipo de
+              Exportapp es una página que permite a las Pymes de Colombia poder
+              conocer las alternativas de exportación y el potencial de su
+              productos en el exterior, realice el FrontEnd de este prototipo de
               fidelidad media.
             </Text>
 
@@ -108,7 +108,7 @@ const Proyects = () => {
               Financenter - Formulario crédito
             </Heading>
             <Text fontSize={"xl"}>
-              Realice un formulario de solicitud de credito con validación
+              Realice un formulario de solicitud de crédito con validación de 
               google-reCaptcha para la entidad financiera Financenter.
             </Text>
 
@@ -166,7 +166,7 @@ const Proyects = () => {
             <Text fontSize={"xl"}>
               Plataforma LMS para las aseguradoras Colombianas, en este desarrollo realice el
               FrontEnd de las plataformas para los estudiantes y los
-              administradores, implementando los modulos de: noticias,
+              administradores, implementando los módulos de: noticias,
               diccionario, documentos, cursos, dashboard, evaluaciones, foro y otros más.
             </Text>
             <Box display={"flex"}  flexWrap={'wrap'} my={2}>
