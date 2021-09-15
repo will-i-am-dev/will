@@ -147,8 +147,8 @@ const Proyects = () => {
               quality={100}
               style={{
                 border: "1px",
-                borderTopLeftRadius: "20px",
-                borderTopRightRadius: "20px",
+                borderTopLeftRadius: "9px",
+                borderTopRightRadius: "9px",
                 width: "100%",
               }}
             />
