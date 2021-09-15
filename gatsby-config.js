@@ -18,6 +18,18 @@ module.exports = {
       },
       __key: "images",
     },
+    {
+      resolve: `gatsby-plugin-manifest`,
+      options: {
+        name: `William Melo`,
+        short_name: `Will`,
+        start_url: `/`,
+        background_color: `#f7f0eb`,
+        theme_color: `#a2466c`,
+        display: `standalone`,
+        favicon: `/src/images/me.ico`,
+      },
+    },
     "@chakra-ui/gatsby-plugin",
     {
       resolve: `gatsby-plugin-typescript`,
