@@ -27,7 +27,7 @@ module.exports = {
         background_color: `#f7f0eb`,
         theme_color: `#a2466c`,
         display: `standalone`,
-        favicon: `/src/images/me.ico`,
+        icon: `/src/images/me.ico`,
       },
     },
     "@chakra-ui/gatsby-plugin",
