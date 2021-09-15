@@ -1,4 +1,5 @@
 module.exports = {
+  pathPrefix:"/will",
   siteMetadata: {
     siteUrl: "https://www.yourdomain.tld",
     title: "me",
@@ -15,6 +16,15 @@ module.exports = {
         path: "./src/images/",
       },
       __key: "images",
+    },
+    "@chakra-ui/gatsby-plugin",
+    {
+      resolve: `gatsby-plugin-typescript`,
+      options: {
+        isTSX: true, // defaults to false
+        jsxPragma: `jsx`, // defaults to "React"
+        allExtensions: true, // defaults to false
+      },
     },
   ],
 };
