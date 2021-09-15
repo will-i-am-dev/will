@@ -39,7 +39,7 @@ const IndexPage = () => {
             Actualmente trabajo en <ChakraLink  target="_blank" color="secondary.500" href="https://lab.lapix.com.co/">Lapix</ChakraLink> como desarrollador FrontEnd, soy Tecnólogo en Informática de la universidad UNIMINUTO y estudiante de últimos semestres de Ingenieria de Software de la universidad Manuela Beltran.  
           </Text>
           <Text fontSize={'xl'} lineHeight={'8'} mt={4}>
-          Este sitio muestra un poco de mi, mis intereses y los proyectos que he realizado a lo largo de este año de experiencia que tengo como desarrollador.
+          Este sitio muestra un poco de mi, de mis intereses y los proyectos que he realizado a lo largo de mi experiencia que tengo como desarrollador.
           </Text>
       </Box>
      

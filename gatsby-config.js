@@ -1,8 +1,9 @@
 module.exports = {
-  pathPrefix:"/will",
+  pathPrefix: "/will",
   siteMetadata: {
-    siteUrl: "https://www.yourdomain.tld",
-    title: "me",
+    siteUrl: "https://will-i-am-dev.github.io/will/",
+    title: "William Melo",
+    favicon: "./src/images/me.ico",
   },
   plugins: [
     "gatsby-plugin-image",
