@@ -26,20 +26,20 @@ const IndexPage = () => {
           <StaticImage
           
             src="../images/me.jpg"
-            alt="me"
+            alt="William Melo"
 
             quality={100}
             style={{ border: "0px", borderRadius: '100%', width: 180 }}
           />
         </Box>
         <Heading alignSelf={'flex-start'} mt={10} textAlign={'left'} fontSize="3xl" color={"black"} mb={6}>
-            Hola, soy William
+            Hi, I'm William.
           </Heading>
           <Text fontSize={'xl'} lineHeight={'8'}>
-            Actualmente trabajo en <ChakraLink  target="_blank" color="secondary.500" href="https://lab.lapix.com.co/">Lapix</ChakraLink> como desarrollador FrontEnd, soy Tecnólogo en Informática de la universidad UNIMINUTO y estudiante de últimos semestres de Ingenieria de Software de la universidad Manuela Beltran.  
+            I currently work at <ChakraLink  target="_blank" color="secondary.500" href="https://lab.lapix.com.co/">Lapix</ChakraLink> as a front-end developer. I have a degree in Information Technology from UNIMINUTO University and am in the final semesters of a Software Engineering degree at Manuela Beltrán University.
           </Text>
           <Text fontSize={'xl'} lineHeight={'8'} mt={4}>
-          Este sitio muestra un poco de mi, de mis intereses y los proyectos que he realizado a lo largo de mi experiencia que tengo como desarrollador.
+          This site offers a glimpse into who I am, my interests, and the projects I've worked on throughout my career as a developer.
           </Text>
       </Box>
      
